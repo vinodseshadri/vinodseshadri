@@ -1,0 +1,34 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+  - file: about/intro
+    sections:
+      - title : Skills
+        file :  about/skills
+      - title : Professional Experience
+        file : about/professional
+      - title : Patents
+        file :  about/patents
+      - title : Education
+        file : about/education
+      - title : Training and Certification
+        file : about/certification
+      
+  #- title : Projects
+  #  file: side_projects/sideproject
+  - title : Blogs
+    file: blogs/blog
+    sections:
+      - title: Building AI/ML Products for Data Scientists
+        file: blogs/buildingai.md
+  - title : Book Reviews
+    file: book_reviews/thecreativeact
+  - title : Paper Reviews
+    file: paper_reviews/rlhf
+  
+
+
+
