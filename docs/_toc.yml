@@ -24,8 +24,11 @@ chapters:
     sections:
       - title: Building AI/ML Products for Data Scientists
         file: blogs/buildingai.md
-  - title : Book Reviews
-    file: book_reviews/thecreativeact
+  - title : Books and Podcasts I loved
+    file: books_review/books
+    sections:
+      - title: Revisionist History
+        file: books_review/revisionist_history.md
   - title : Paper Reviews
     file: paper_reviews/rlhf
   
