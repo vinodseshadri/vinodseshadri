@@ -25,10 +25,12 @@ chapters:
       - title: Building AI/ML Products for Data Scientists
         file: blogs/buildingai.md
   - title : Books and Podcasts I loved
-    file: books_review/books
+    file: book_reviews/bookspodcasts
     sections:
-      - title: Revisionist History
-        file: books_review/revisionist_history.md
+      - title: Podcasts
+        file: book_reviews/podcasts.md
+      - title: Books
+        file: book_reviews/books.md
   - title : Paper Reviews
     file: paper_reviews/rlhf
   

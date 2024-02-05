@@ -27,5 +27,8 @@ repository:
 
 html:
   use_issues_button: false
-  use_repository_button: true
+  use_repository_button: false
+  favicon                   : vinod.jpg 
+  use_edit_page_button      : false  # Whether to add an "edit this page" button to pages. If `true`, repository information in repository: must be filled in
+
   
